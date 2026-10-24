@@ -1,0 +1,512 @@
+note_id,note_datetime,department,note_type,age,sex,payer,note_text
+N001,2025-01-07 10:00,Cardiology,Progress Note,97,F,Medicare,"Progress Note - Cardiology
+Reason for Visit: Chest pain evaluation
+Subjective: 97 y.o. female here for evaluation of exertional chest pain.
+Social History:
+- Tobacco: Never smoker
+Objective: BP 135/63 | Pulse 66 | Temp 98.2 °F (36.8 °C) | Resp 16 | SpO2 94% | Wt 171 lb
+Assessment/Plan: Chest pain, r/o CAD. Stress echo ordered.
+Electronically signed by Y. Tanaka, NP on 01/07/2025 at 10:00"
+N002,2025-01-07 13:10,Internal Medicine,Progress Note,57,M,Commercial,"Progress Note - Internal Medicine
+Reason for Visit: CKD follow-up
+Subjective: 57 y.o. male here for f/u of CKD stage 3.
+Social History:
+- Tobacco: Never smoker
+- Housing: Lives w/ daughter, stable housing
+- Food: Food secure
+- Transportation: No car; family drives pt to all appts
+SDOH screening questionnaire: completed today
+Objective: BP 127/66 | Pulse 78 | Temp 97.5 °F (36.4 °C) | Resp 16 | SpO2 95% | Wt 161 lb
+Assessment/Plan: CKD 3a, stable. BMP in 3 mo. Avoid NSAIDs.
+Electronically signed by C. Okafor, MD on 01/07/2025 at 13:10"
+N003,2025-01-09 16:24,Emergency Department,ED Triage Note,36,F,Medicaid,"ED Triage Note
+Chief Complaint: Fall
+Triage Assessment: Pt is a 36 y.o. female presenting c/o mechanical fall at home since this AM.
+Social Hx: Tobacco: Current smoker, 1/2 ppd x20 yrs; Housing: Lives alone in apt, no concerns; Food: Denies food insecurity; Transportation: Spouse drives.
+SDOH screen: completed
+PMH: HTN, osteoporosis
+Allergies: sulfa
+Vitals: BP 127/78 | Pulse 80 | Temp 98.8 °F (37.1 °C) | Resp 19 | SpO2 99%
+ESI: 4
+S. Johnson, RN 01/09/25 1624"
+N004,2025-01-10 10:55,OB/GYN,Progress Note,19,F,Medicaid,"Progress Note - OB/GYN
+Reason for Visit: Pelvic pain
+Subjective: 19 y.o. female here for pelvic pain x2 wks.
+Social History:
+- Tobacco: Never smoker
+Objective: BP 134/74 | Pulse 94 | Temp 98.1 °F (36.7 °C) | Resp 14 | SpO2 96% | Wt 267 lb
+Assessment/Plan: Pelvic pain, likely ovarian cyst. Pelvic US ordered.
+Electronically signed by E. Chen, MD on 01/10/2025 at 10:55"
+N005,2025-01-15 15:52,Family Medicine,Progress Note,93,F,Medicare,"Progress Note - Family Medicine
+Reason for Visit: HTN follow-up
+Subjective: 93 y.o. female here for f/u of HTN. Pt tearful, got an eviction notice this wk, behind on rent.
+Social History:
+- Tobacco: Never smoker
+- Food: Denies food insecurity
+- Transportation: Drives self
+SDOH screening questionnaire: completed today
+Objective: BP 159/98 | Pulse 97 | Temp 98.6 °F (37.0 °C) | Resp 16 | SpO2 97% | Wt 208 lb
+Assessment/Plan: Essential HTN, not at goal. Increase lisinopril to 20 mg. Home BP log. RTC 4 wks.
+Electronically signed by N. Shah, MD on 01/15/2025 at 15:52"
+N006,2025-01-19 08:11,Emergency Department,ED Triage Note,32,M,Medicaid,"ED Triage Note
+Chief Complaint: Fall
+Triage Assessment: Pt is a 32 y.o. male presenting c/o mechanical fall at home x1 day.
+Social Hx: Tobacco: Current some day smoker; Housing: Lives w/ spouse in own home; Food: Food secure; Transportation: No car; family drives pt to all appts.
+SDOH screen: completed
+PMH: HTN, osteoporosis
+Allergies: NKDA
+Vitals: BP 144/88 | Pulse 86 | Temp 97.5 °F (36.4 °C) | Resp 17 | SpO2 95%
+ESI: 5
+T. Olsen, RN 01/19/25 0811"
+N007,2025-01-21 12:25,OB/GYN,Progress Note,29,F,Commercial,"Progress Note - OB/GYN
+Reason for Visit: Prenatal visit
+Subjective: 29 y.o. female here for routine prenatal visit, 32 wks.
+Social History:
+- Housing: Lives w/ spouse in own home
+Objective: BP 123/74 | Pulse 82 | Temp 98.4 °F (36.9 °C) | Resp 18 | SpO2 96% | Wt 188 lb
+Assessment/Plan: IUP at 32 wks. Tdap today. RTC 2 wks.
+Electronically signed by H. Muller, MD on 01/21/2025 at 12:25"
+N008,2025-01-21 15:15,Internal Medicine,Progress Note,43,F,Commercial,"Progress Note - Internal Medicine
+Reason for Visit: Hospital follow-up
+Subjective: 43 y.o. female here for post-discharge f/u after PNA admission. Gets most groceries from church food pantry.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 2006
+- Housing: Lives w/ daughter, stable housing
+- Transportation: Spouse drives
+SDOH screening questionnaire: completed today
+Objective: BP 161/109 | Pulse 93 | Temp 98.1 °F (36.7 °C) | Resp 18 | SpO2 96% | Wt 217 lb
+Assessment/Plan: CAP, resolved. Complete abx course. CXR in 6 wks.
+Electronically signed by R. Alvarez, MD on 01/21/2025 at 15:15"
+N009,2025-01-22 09:49,Internal Medicine,Progress Note,22,F,Commercial,"Progress Note - Internal Medicine
+Reason for Visit: COPD follow-up
+Subjective: 22 y.o. female here for f/u of COPD. Was evicted last month, staying w/ sister for now, needs own place.
+Social History:
+- Tobacco: Never
+- Food: Food secure
+- Transportation: No car; family drives pt to all appts
+SDOH screening questionnaire: completed today
+Objective: BP 141/90 | Pulse 76 | Temp 97.7 °F (36.5 °C) | Resp 15 | SpO2 96% | Wt 169 lb
+Assessment/Plan: COPD, stable. Refill inhalers. PFTs ordered. Housing resource list given.
+Electronically signed by P. O'Brien, MD on 01/22/2025 at 09:49"
+N010,2025-01-27 11:56,Emergency Department,ED Triage Note,50,F,Other,"ED Triage Note
+Chief Complaint: Shortness of Breath
+Triage Assessment: Pt is a 50 y.o. female presenting c/o SOB w/ exertion x1 day.
+Social Hx: Housing: Lives w/ spouse in own home; Food: No concerns; Transportation: No car; family drives pt to all appts.
+SDOH screen: completed
+PMH: COPD
+Allergies: NKDA
+Vitals: BP 125/70 | Pulse 83 | Temp 99.5 °F (37.5 °C) | Resp 18 | SpO2 95%
+ESI: 4
+A. Brooks, RN 01/27/25 1156"
+N011,2025-01-31 13:33,Family Medicine,Progress Note,64,M,Commercial,"Progress Note - Family Medicine
+Reason for Visit: URI
+Subjective: 64 y.o. male here for URI sx x4 days. Pt has been staying at the shelter on 5th St x3 wks.
+Social History:
+- Tobacco: Never smoker
+- Food: Food secure
+- Transportation: Takes bus w/o difficulty
+SDOH screening questionnaire: completed today
+Objective: BP 149/92 | Pulse 89 | Temp 98.6 °F (37.0 °C) | Resp 18 | SpO2 99% | Wt 167 lb
+Assessment/Plan: Viral URI. Supportive care. Return precautions given. Housing resource list given.
+Electronically signed by P. O'Brien, MD on 01/31/2025 at 13:33"
+N012,2025-02-01 07:49,Emergency Department,ED Triage Note,36,F,Self-pay,"ED Triage Note
+Chief Complaint: Headache
+Triage Assessment: Pt is a 36 y.o. female presenting c/o HA x5 hrs. Pt often worries food will run out before next paycheck.
+Social Hx: Tobacco: Current some day smoker; Housing: Lives w/ daughter, stable housing; Transportation: Has reliable transportation.
+SDOH screen: completed
+PMH: migraines
+Allergies: NKDA
+Vitals: BP 116/66 | Pulse 80 | Temp 97.7 °F (36.5 °C) | Resp 17 | SpO2 93%
+ESI: 2
+M. Patel, RN 02/01/25 0749"
+N013,2025-02-06 15:01,Emergency Department,ED Triage Note,35,F,Medicaid,"ED Triage Note
+Chief Complaint: Fall
+Triage Assessment: Pt is a 35 y.o. female presenting c/o mechanical fall at home since this AM.
+Social Hx: Tobacco: Never smoker; Housing: Lives w/ daughter, stable housing; Food: No concerns; Transportation: Takes bus w/o difficulty.
+SDOH screen: completed
+PMH: none
+Allergies: NKDA
+Vitals: BP 130/88 | Pulse 72 | Temp 98.6 °F (37.0 °C) | Resp 16 | SpO2 96%
+ESI: 3
+J. Ramirez, RN 02/06/25 1501"
+N014,2025-02-06 15:09,Family Medicine,Progress Note,64,F,Medicare,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 64 y.o. female here for annual exam. Pt often worries food will run out before next paycheck. Pt states she cannot afford gas to get to appointments.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 1990
+Objective: BP 161/89 | Pulse 71 | Temp 98.6 °F (37.0 °C) | Resp 16 | SpO2 96% | Wt 194 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr. Food pantry list provided. Transportation assistance info given.
+Electronically signed by C. Okafor, MD on 02/06/2025 at 15:09"
+N015,2025-02-14 14:51,Cardiology,Progress Note,52,M,Medicaid,"Progress Note - Cardiology
+Reason for Visit: Post-MI follow-up
+Subjective: 52 y.o. male here for f/u after NSTEMI. Pt admits to skipping meals because there is not enough food at home.
+Social History:
+- Tobacco: Former smoker, quit 2018
+- Housing: Lives w/ daughter, stable housing
+- Transportation: Spouse drives
+SDOH screening questionnaire: completed today
+Objective: BP 162/98 | Pulse 80 | Temp 97.7 °F (36.5 °C) | Resp 16 | SpO2 94% | Wt 241 lb
+Assessment/Plan: CAD s/p PCI. Cardiac rehab referral. Continue DAPT. Food pantry list provided.
+Electronically signed by G. Foster, NP on 02/14/2025 at 14:51"
+N016,2025-02-20 14:43,Emergency Department,ED Triage Note,43,M,Medicare,"ED Triage Note
+Chief Complaint: Back Pain
+Triage Assessment: Pt is a 43 y.o. male presenting c/o low back pain after lifting x1 wk.
+Social Hx: Tobacco: Never; Housing: Lives w/ daughter, stable housing; Food: Denies difficulty affording food; Transportation: Spouse drives.
+SDOH screen: completed
+PMH: none
+Allergies: PCN (rash)
+Vitals: BP 147/86 | Pulse 67 | Temp 98.8 °F (37.1 °C) | Resp 17 | SpO2 96%
+ESI: 4
+A. Brooks, RN 02/20/25 1443"
+N017,2025-02-21 10:12,Family Medicine,Progress Note,34,F,Commercial,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 34 y.o. female here for annual exam. Pt often worries food will run out before next paycheck.
+Social History:
+- Tobacco: Never
+Objective: BP 164/95 | Pulse 91 | Temp 98.8 °F (37.1 °C) | Resp 17 | SpO2 99% | Wt 212 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr. Food pantry list provided.
+Electronically signed by P. O'Brien, MD on 02/21/2025 at 10:12"
+N018,2025-02-21 11:08,Emergency Department,ED Triage Note,66,F,Medicare,"ED Triage Note
+Chief Complaint: Fall
+Triage Assessment: Pt is a 66 y.o. female presenting c/o mechanical fall at home x1 day.
+Social Hx: Tobacco: Never; Housing: Lives w/ daughter, stable housing; Food: Denies food insecurity; Transportation: No car; family drives pt to all appts.
+SDOH screen: completed
+PMH: none
+Allergies: sulfa
+Vitals: BP 125/69 | Pulse 97 | Temp 99.0 °F (37.2 °C) | Resp 19 | SpO2 96%
+ESI: 4
+M. Patel, RN 02/21/25 1108"
+N019,2025-02-21 12:03,Family Medicine,Progress Note,21,F,Commercial,"Progress Note - Family Medicine
+Reason for Visit: HTN follow-up
+Subjective: 21 y.o. female here for f/u of HTN.
+Social History:
+- Tobacco: Never
+- Housing: Lives alone in apt, no concerns
+- Food: Denies difficulty affording food
+- Transportation: Drives self
+SDOH screening questionnaire: completed today
+Objective: BP 129/90 | Pulse 104 | Temp 98.8 °F (37.1 °C) | Resp 18 | SpO2 95% | Wt 208 lb
+Assessment/Plan: Essential HTN, not at goal. Increase lisinopril to 20 mg. Home BP log. RTC 4 wks.
+Electronically signed by H. Muller, MD on 02/21/2025 at 12:03"
+N020,2025-02-25 22:53,Emergency Department,ED Triage Note,55,F,Medicaid,"ED Triage Note
+Chief Complaint: Cough
+Triage Assessment: Pt is a 55 y.o. female presenting c/o productive cough x1 day.
+Social Hx: Tobacco: Former smoker, quit 2024; Housing: Lives w/ daughter, stable housing; Food: No concerns; Transportation: Takes bus w/o difficulty.
+SDOH screen: completed
+PMH: COPD
+Allergies: PCN (rash)
+Vitals: BP 139/85 | Pulse 87 | Temp 99.3 °F (37.4 °C) | Resp 15 | SpO2 94%
+ESI: 3
+T. Olsen, RN 02/25/25 2253"
+N021,2025-03-06 11:52,Family Medicine,Progress Note,64,F,Commercial,"Progress Note - Family Medicine
+Reason for Visit: URI
+Subjective: 64 y.o. female here for URI sx x4 days. SNAP was cut and pt states there is not enough to eat at home. Pt will need a ride to f/u, no transportation available.
+Social History:
+- Tobacco: Current every day smoker, 1 ppd
+- Housing: Lives alone in apt, no concerns
+SDOH screening questionnaire: completed today
+Objective: BP 143/82 | Pulse 83 | Temp 99.7 °F (37.6 °C) | Resp 18 | SpO2 97% | Wt 160 lb
+Assessment/Plan: Viral URI. Supportive care. Return precautions given. Food pantry list provided.
+Electronically signed by R. Alvarez, MD on 03/06/2025 at 11:52"
+N022,2025-03-08 02:20,Emergency Department,ED Triage Note,57,F,Commercial,"ED Triage Note
+Chief Complaint: Back Pain
+Triage Assessment: Pt is a 57 y.o. female presenting c/o low back pain after lifting x5 hrs.
+Social Hx: Tobacco: Never; Housing: Stable; Food: Denies difficulty affording food; Transportation: No car; family drives pt to all appts.
+SDOH screen: completed
+PMH: none
+Allergies: PCN (rash)
+Vitals: BP 122/76 | Pulse 97 | Temp 98.4 °F (36.9 °C) | Resp 15 | SpO2 96%
+ESI: 4
+A. Brooks, RN 03/08/25 0220"
+N023,2025-03-13 13:25,OB/GYN,Progress Note,31,F,Commercial,"Progress Note - OB/GYN
+Reason for Visit: Prenatal visit
+Subjective: 31 y.o. female here for routine prenatal visit, 24 wks. Gets most groceries from church food pantry.
+Social History:
+- Tobacco: Current some day smoker
+- Transportation: No car; family drives pt to all appts
+Objective: BP 145/87 | Pulse 74 | Temp 98.2 °F (36.8 °C) | Resp 17 | SpO2 97% | Wt 142 lb
+Assessment/Plan: IUP at 24 wks, uncomplicated. GTT next visit. RTC 4 wks.
+Electronically signed by N. Shah, MD on 03/13/2025 at 13:25"
+N024,2025-03-14 12:30,Family Medicine,Progress Note,65,F,Medicare,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 65 y.o. female here for annual exam. Pt states she cannot afford gas to get to appointments.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 1998
+Objective: BP 130/73 | Pulse 111 | Temp 99.0 °F (37.2 °C) | Resp 12 | SpO2 94% | Wt 174 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr. Transportation assistance info given.
+Electronically signed by H. Muller, MD on 03/14/2025 at 12:30"
+N025,2025-03-19 08:52,OB/GYN,Progress Note,22,F,Medicaid,"Progress Note - OB/GYN
+Reason for Visit: Prenatal visit
+Subjective: 22 y.o. female here for routine prenatal visit, 24 wks.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 2020
+- Housing: Lives w/ daughter, stable housing
+- Food: Denies difficulty affording food
+- Transportation: Cannot afford gas for appts
+SDOH screening questionnaire: completed today
+Objective: BP 173/107 | Pulse 72 | Temp 97.9 °F (36.6 °C) | Resp 18 | SpO2 94% | Wt 147 lb
+Assessment/Plan: IUP at 24 wks, uncomplicated. GTT next visit. RTC 4 wks. Transportation assistance info given.
+Electronically signed by H. Muller, MD on 03/19/2025 at 08:52"
+N026,2025-03-21 14:34,Family Medicine,Progress Note,40,M,Medicaid,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 40 y.o. male here for annual exam.
+Social History:
+- Housing: Stable, rents apt w/ partner
+- Food: Denies difficulty affording food
+- Transportation: Drives self
+SDOH screening questionnaire: completed today
+Objective: BP 140/74 | Pulse 86 | Temp 98.6 °F (37.0 °C) | Resp 15 | SpO2 100% | Wt 145 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr.
+Electronically signed by R. Alvarez, MD on 03/21/2025 at 14:34"
+N027,2025-03-21 14:57,Family Medicine,Progress Note,59,M,Commercial,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 59 y.o. male here for annual exam.
+Social History:
+- Tobacco: Former smoker, quit 2014
+- Housing: Stable
+- Food: Denies food insecurity
+- Transportation: Spouse drives
+SDOH screening questionnaire: completed today
+Objective: BP 156/93 | Pulse 99 | Temp 96.8 °F (36.0 °C) | Resp 15 | SpO2 97% | Wt 175 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr.
+Electronically signed by H. Muller, MD on 03/21/2025 at 14:57"
+N028,2025-03-25 09:04,Cardiology,Progress Note,77,M,Medicare,"Progress Note - Cardiology
+Reason for Visit: Chest pain evaluation
+Subjective: 77 y.o. male here for evaluation of exertional chest pain. Pt admits to skipping meals because there is not enough food at home.
+Social History:
+- Tobacco: Never smoker
+- Housing: Stable
+- Transportation: Drives self
+SDOH screening questionnaire: completed today
+Objective: BP 154/96 | Pulse 97 | Temp 99.1 °F (37.3 °C) | Resp 15 | SpO2 98% | Wt 202 lb
+Assessment/Plan: Chest pain, r/o CAD. Stress echo ordered. Food pantry list provided.
+Electronically signed by V. Reyes, NP on 03/25/2025 at 09:04"
+N029,2025-03-26 20:22,Emergency Department,ED Triage Note,63,F,Self-pay,"ED Triage Note
+Chief Complaint: Medication Refill
+Triage Assessment: Pt is a 63 y.o. female presenting c/o ran out of meds x1 day.
+Social Hx: Tobacco: Never smoker; Housing: Lives w/ spouse in own home; Food: Worried food will run out before next paycheck; Transportation: Has reliable transportation.
+SDOH screen: completed
+PMH: HTN
+Allergies: sulfa
+Vitals: BP 124/79 | Pulse 85 | Temp 99.1 °F (37.3 °C) | Resp 13 | SpO2 94%
+ESI: 3
+T. Olsen, RN 03/26/25 2022"
+N030,2025-03-31 08:41,Emergency Department,ED Triage Note,76,M,Medicare,"ED Triage Note
+Chief Complaint: Chest Pain
+Triage Assessment: Pt is a 76 y.o. male presenting c/o intermittent chest pain since this AM. Pt admits to skipping meals because there is not enough food at home.
+Social Hx: Tobacco: Current smoker, 1/2 ppd x20 yrs; Housing: Lives alone in apt, no concerns.
+PMH: HTN, HLD
+Allergies: sulfa
+Vitals: BP 131/88 | Pulse 74 | Temp 98.4 °F (36.9 °C) | Resp 19 | SpO2 99%
+ESI: 5
+Triage Plan: Food pantry list provided.
+M. Patel, RN 03/31/25 0841"
+N031,2025-04-02 10:49,Family Medicine,Progress Note,38,F,Medicare,"Progress Note - Family Medicine
+Reason for Visit: URI
+Subjective: 38 y.o. female here for URI sx x4 days.
+Social History:
+- Tobacco: Never smoker
+- Housing: Lives w/ daughter, stable housing
+- Food: Food secure
+- Transportation: No car; family drives pt to all appts
+SDOH screening questionnaire: completed today
+Objective: BP 135/80 | Pulse 52 | Temp 99.0 °F (37.2 °C) | Resp 19 | SpO2 95% | Wt 210 lb
+Assessment/Plan: Viral URI. Supportive care. Return precautions given.
+Electronically signed by N. Shah, MD on 04/02/2025 at 10:49"
+N032,2025-04-14 11:20,Cardiology,Progress Note,97,M,Medicare,"Progress Note - Cardiology
+Reason for Visit: Chest pain evaluation
+Subjective: 97 y.o. male here for evaluation of exertional chest pain.
+Social History:
+- Tobacco: Current some day smoker
+- Housing: Stable, rents apt w/ partner
+- Food: Denies difficulty affording food
+- Transportation: Has reliable transportation
+SDOH screening questionnaire: completed today
+Objective: BP 108/55 | Pulse 53 | Temp 98.4 °F (36.9 °C) | Resp 15 | SpO2 96% | Wt 245 lb
+Assessment/Plan: Chest pain, r/o CAD. Stress echo ordered.
+Electronically signed by V. Reyes, NP on 04/14/2025 at 11:20"
+N033,2025-04-15 11:48,Emergency Department,ED Triage Note,62,F,Commercial,"ED Triage Note
+Chief Complaint: Cough
+Triage Assessment: Pt is a 62 y.o. female presenting c/o productive cough x1 day.
+Social Hx: Tobacco: Never smoker.
+PMH: asthma
+Allergies: sulfa
+Vitals: BP 134/74 | Pulse 97 | Temp 98.2 °F (36.8 °C) | Resp 14 | SpO2 96%
+ESI: 3
+S. Johnson, RN 04/15/25 1148"
+N034,2025-04-15 16:22,OB/GYN,Progress Note,39,F,Commercial,"Progress Note - OB/GYN
+Reason for Visit: Postpartum visit
+Subjective: 39 y.o. female here for postpartum visit, 6 wks. Food runs out before the end of the month most months.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 2022
+Objective: BP 129/79 | Pulse 78 | Temp 98.1 °F (36.7 °C) | Resp 17 | SpO2 97% | Wt 192 lb
+Assessment/Plan: Routine postpartum. Contraception counseling done.
+Electronically signed by E. Chen, MD on 04/15/2025 at 16:22"
+N035,2025-04-17 09:16,Family Medicine,Progress Note,37,F,Medicare,"Progress Note - Family Medicine
+Reason for Visit: Depression follow-up
+Subjective: 37 y.o. female here for f/u of depression.
+Social History:
+- Tobacco: Never
+- Housing: Lives alone in apt, no concerns
+- Food: No concerns
+- Transportation: Takes bus w/o difficulty
+SDOH screening questionnaire: completed today
+Objective: BP 116/62 | Pulse 82 | Temp 98.4 °F (36.9 °C) | Resp 14 | SpO2 98% | Wt 149 lb
+Assessment/Plan: MDD, improving. Continue sertraline. RTC 6 wks.
+Electronically signed by R. Alvarez, MD on 04/17/2025 at 09:16"
+N036,2025-04-22 13:29,Family Medicine,Progress Note,67,M,Medicaid,"Progress Note - Family Medicine
+Reason for Visit: HTN follow-up
+Subjective: 67 y.o. male here for f/u of HTN.
+Social History:
+- Tobacco: Former smoker, quit 2016
+- Housing: Lives w/ spouse in own home
+- Food: Food secure
+- Transportation: Takes bus w/o difficulty
+SDOH screening questionnaire: completed today
+Objective: BP 112/61 | Pulse 86 | Temp 100.0 °F (37.8 °C) | Resp 18 | SpO2 96% | Wt 121 lb
+Assessment/Plan: Essential HTN, not at goal. Increase lisinopril to 20 mg. Home BP log. RTC 4 wks.
+Electronically signed by H. Muller, MD on 04/22/2025 at 13:29"
+N037,2025-04-22 22:24,Emergency Department,ED Triage Note,29,F,Commercial,"ED Triage Note
+Chief Complaint: Laceration
+Triage Assessment: Pt is a 29 y.o. female presenting c/o lac to L hand x1 day.
+Social Hx: Tobacco: Current smoker, 1/2 ppd x13 yrs; Housing: Stable; Food: Food secure; Transportation: No car; family drives pt to all appts.
+SDOH screen: completed
+PMH: none
+Allergies: NKDA
+Vitals: BP 131/60 | Pulse 95 | Temp 97.9 °F (36.6 °C) | Resp 19 | SpO2 97%
+ESI: 3
+K. Nguyen, RN 04/22/25 2224"
+N038,2025-04-26 23:06,Emergency Department,ED Triage Note,81,M,Commercial,"ED Triage Note
+Chief Complaint: Cough
+Triage Assessment: Pt is a 81 y.o. male presenting c/o productive cough x3 days.
+Social Hx: Tobacco: Former smoker, quit 2020; Housing: Homeless; Food: Denies difficulty affording food; Transportation: Drives self.
+SDOH screen: completed
+PMH: asthma
+Allergies: sulfa
+Vitals: BP 141/78 | Pulse 90 | Temp 98.2 °F (36.8 °C) | Resp 17 | SpO2 94%
+ESI: 2
+Triage Plan: SW consulted re: shelter placement.
+S. Johnson, RN 04/26/25 2306"
+N039,2025-05-01 11:05,Emergency Department,ED Triage Note,61,M,Medicaid,"ED Triage Note
+Chief Complaint: Abdominal Pain
+Triage Assessment: Pt is a 61 y.o. male presenting c/o RLQ abd pain since this AM. Pt will need a ride to f/u, no transportation available.
+Social Hx: Housing: Living in car; Food: Food secure.
+SDOH screen: completed
+PMH: none
+Allergies: NKDA
+Vitals: BP 112/73 | Pulse 88 | Temp 98.2 °F (36.8 °C) | Resp 15 | SpO2 95%
+ESI: 5
+M. Patel, RN 05/01/25 1105"
+N040,2025-05-02 08:33,Internal Medicine,Progress Note,34,F,Self-pay,"Progress Note - Internal Medicine
+Reason for Visit: Hospital follow-up
+Subjective: 34 y.o. female here for post-discharge f/u after PNA admission. Pt admits to skipping meals because there is not enough food at home.
+Social History:
+- Housing: Stable, rents apt w/ partner
+- Transportation: Takes bus w/o difficulty
+SDOH screening questionnaire: completed today
+Objective: BP 152/91 | Pulse 81 | Temp 98.8 °F (37.1 °C) | Resp 20 | SpO2 93% | Wt 278 lb
+Assessment/Plan: CAP, resolved. Complete abx course. CXR in 6 wks. Referred to SW for SNAP application assistance.
+Electronically signed by C. Okafor, MD on 05/02/2025 at 08:33"
+N041,2025-05-06 09:11,Family Medicine,Progress Note,33,F,Medicaid,"Progress Note - Family Medicine
+Reason for Visit: URI
+Subjective: 33 y.o. female here for URI sx x4 days.
+Social History:
+- Tobacco: Never
+- Housing: Living in car
+- Food: No concerns
+- Transportation: Has reliable transportation
+SDOH screening questionnaire: completed today
+Objective: BP 127/76 | Pulse 66 | Temp 99.1 °F (37.3 °C) | Resp 18 | SpO2 99% | Wt 166 lb
+Assessment/Plan: Viral URI. Supportive care. Return precautions given. Housing resource list given.
+Electronically signed by N. Shah, MD on 05/06/2025 at 09:11"
+N042,2025-05-10 04:12,Emergency Department,ED Triage Note,18,F,Medicaid,"ED Triage Note
+Chief Complaint: Medication Refill
+Triage Assessment: Pt is a 18 y.o. female presenting c/o ran out of meds x3 days. Pt is currently homeless. Food runs out before the end of the month most months.
+Social Hx: Tobacco: Current some day smoker.
+PMH: HTN
+Allergies: NKDA
+Vitals: BP 124/81 | Pulse 90 | Temp 98.8 °F (37.1 °C) | Resp 19 | SpO2 99%
+ESI: 4
+Triage Plan: Referred to SW for SNAP application assistance.
+J. Ramirez, RN 05/10/25 0412"
+N043,2025-05-11 03:49,Emergency Department,ED Triage Note,42,M,Self-pay,"ED Triage Note
+Chief Complaint: Cough
+Triage Assessment: Pt is a 42 y.o. male presenting c/o productive cough x1 wk. Pt states he cannot afford gas to get to appointments.
+Social Hx: Tobacco: Former smoker, 20 pack-yr hx, quit 2019; Housing: Lives alone in apt, no concerns; Food: Food secure.
+SDOH screen: completed
+PMH: COPD
+Allergies: PCN (rash)
+Vitals: BP 133/82 | Pulse 100 | Temp 100.4 °F (38.0 °C) | Resp 14 | SpO2 97%
+ESI: 3
+M. Patel, RN 05/11/25 0349"
+N044,2025-05-15 03:05,Emergency Department,ED Triage Note,50,M,Commercial,"ED Triage Note
+Chief Complaint: Laceration
+Triage Assessment: Pt is a 50 y.o. male presenting c/o lac to L hand x3 days. Food runs out before the end of the month most months. Pt states he cannot afford gas to get to appointments.
+Social Hx: Tobacco: Current some day smoker.
+PMH: none
+Allergies: NKDA
+Vitals: BP 101/55 | Pulse 82 | Temp 98.1 °F (36.7 °C) | Resp 18 | SpO2 98%
+ESI: 2
+S. Johnson, RN 05/15/25 0305"
+N045,2025-05-31 14:53,Emergency Department,ED Triage Note,39,M,Medicaid,"ED Triage Note
+Chief Complaint: Shortness of Breath
+Triage Assessment: Pt is a 39 y.o. male presenting c/o SOB w/ exertion x1 wk. Pt states he cannot afford gas to get to appointments.
+Social Hx: Housing: Received eviction notice, behind on rent x2 mo; Food: No concerns.
+SDOH screen: completed
+PMH: CHF
+Allergies: NKDA
+Vitals: BP 158/80 | Pulse 106 | Temp 98.4 °F (36.9 °C) | Resp 19 | SpO2 96%
+ESI: 2
+Triage Plan: Housing resource list given. SW to arrange ride for f/u.
+K. Nguyen, RN 05/31/25 1453"
+N046,2025-06-01 03:39,Emergency Department,ED Triage Note,24,M,Commercial,"ED Triage Note
+Chief Complaint: Dizziness
+Triage Assessment: Pt is a 24 y.o. male presenting c/o dizziness x3 days. Pt is currently homeless.
+Social Hx: Food: Denies difficulty affording food; Transportation: Takes bus w/o difficulty.
+SDOH screen: completed
+PMH: HTN
+Allergies: NKDA
+Vitals: BP 145/75 | Pulse 88 | Temp 98.4 °F (36.9 °C) | Resp 18 | SpO2 96%
+ESI: 4
+K. Nguyen, RN 06/01/25 0339"
+N047,2025-06-11 08:11,Internal Medicine,Progress Note,63,F,Self-pay,"Progress Note - Internal Medicine
+Reason for Visit: Hospital follow-up
+Subjective: 63 y.o. female here for post-discharge f/u after PNA admission. Pt often worries food will run out before next paycheck.
+Social History:
+- Tobacco: Former smoker, quit 2014
+- Housing: Stable, rents apt w/ partner
+- Transportation: No car, relies on bus w/ 2 transfers, unable to get to pharmacy
+SDOH screening questionnaire: completed today
+Objective: BP 117/71 | Pulse 90 | Temp 99.0 °F (37.2 °C) | Resp 20 | SpO2 96% | Wt 208 lb
+Assessment/Plan: CAP, resolved. Complete abx course. CXR in 6 wks. Transportation assistance info given.
+Electronically signed by N. Shah, MD on 06/11/2025 at 08:11"
+N048,2025-06-18 13:12,Family Medicine,Progress Note,20,M,Commercial,"Progress Note - Family Medicine
+Reason for Visit: Annual physical
+Subjective: 20 y.o. male here for annual exam. SNAP was cut and pt states there is not enough to eat at home.
+Social History:
+- Tobacco: Current smoker, 1/2 ppd x4 yrs
+- Housing: Stable, rents apt w/ partner
+- Transportation: Spouse drives
+SDOH screening questionnaire: completed today
+Objective: BP 143/82 | Pulse 91 | Temp 98.4 °F (36.9 °C) | Resp 17 | SpO2 100% | Wt 182 lb
+Assessment/Plan: Health maintenance. Labs ordered. RTC 1 yr.
+Electronically signed by C. Okafor, MD on 06/18/2025 at 13:12"
+N049,2025-06-19 09:45,Internal Medicine,Progress Note,69,F,Medicare,"Progress Note - Internal Medicine
+Reason for Visit: COPD follow-up
+Subjective: 69 y.o. female here for f/u of COPD. Was evicted last month, staying w/ sister for now, needs own place.
+Social History:
+- Tobacco: Former smoker, quit 2011
+- Food: No concerns
+- Transportation: Has reliable transportation
+SDOH screening questionnaire: completed today
+Objective: BP 127/79 | Pulse 71 | Temp 97.9 °F (36.6 °C) | Resp 12 | SpO2 97% | Wt 180 lb
+Assessment/Plan: COPD, stable. Refill inhalers. PFTs ordered. SW consulted re: shelter placement.
+Electronically signed by E. Chen, MD on 06/19/2025 at 09:45"
+N050,2025-06-26 15:15,Family Medicine,Progress Note,60,M,Self-pay,"Progress Note - Family Medicine
+Reason for Visit: DM2 follow-up
+Subjective: 60 y.o. male here for f/u of DM2. Pt often worries food will run out before next paycheck.
+Social History:
+- Tobacco: Former smoker, 20 pack-yr hx, quit 2012
+Objective: BP 163/102 | Pulse 86 | Temp 98.1 °F (36.7 °C) | Resp 20 | SpO2 96% | Wt 176 lb
+Assessment/Plan: DM2, A1c 8.4. Start metformin ER. Diabetes education referral. RTC 3 mo. Referred to SW for SNAP application assistance.
+Electronically signed by R. Alvarez, MD on 06/26/2025 at 15:15"
